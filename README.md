@@ -56,10 +56,3 @@ This project demonstrates automated hyperparameter tuning using `GridSearchCV` a
 - **Test Accuracy**: Evaluated using `accuracy_score`
 
 ---
-
-## 💻 Requirements
-
-Install required libraries using pip:
-
-```bash
-pip install scikit-learn numpy
